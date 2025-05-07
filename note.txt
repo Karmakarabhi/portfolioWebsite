@@ -1,0 +1,9 @@
+| Element           | Color                                |
+| ----------------- | ------------------------------------ |
+| Background        | `#f8f9fa` or `#ffffff`               |
+| Card Background   | `#f1f3f5` or `#e9ecef`               |
+| Primary Accent    | `#6c63ff` (Soft purple) or `#00aaff` |
+| Text - Main       | `#1f1f1f`                            |
+| Text - Secondary  | `#4b4b4b`                            |
+| Button Background | `#e0e0e0`                            |
+| Button Hover      | `#d4d4d4` or subtle shadow           |
