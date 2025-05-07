@@ -12,7 +12,7 @@ function Home() {
            <a href="#projects"> View Projects</a>
           </button>
           <a
-  href="/resume.pdf"
+  href="/AbhijitKarmakarNEW.pdf"
   download
   className="border border-white text-white py-2 px-6 rounded hover:bg-white hover:text-blue-700"
 >
