@@ -2,7 +2,7 @@ import React from "react";
 import Card from "../Components/Card";
 import currencyExchanger from "../assets/currencyExchanger.png";
 import stockImage from "../assets/stockImage.png";
-import ImageGenerator from "../assets/ImageGenerator.png";
+import imageGenerator from "../assets/imageGenerator.png"
 import Portfolio from "../assets/Portfolio.png"
 const projectData = [
   {
@@ -26,7 +26,7 @@ const projectData = [
   {
     name: "AI image generator:",
     tech: "HTML CSS Javascript",
-    image: ImageGenerator,
+    image: imageGenerator,
     desc: "A web app that generates unique images from text prompts using AI-powered APIs.",
   },
 ];
