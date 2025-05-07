@@ -9,11 +9,16 @@ function Home() {
         <p className="text-xl mb-6">Frontend Developer • React Enthusiast</p>
         <div className="flex gap-4">
           <button className="bg-white text-blue-700 font-semibold py-2 px-6 rounded hover:bg-gray-100">
-            View Projects
+           <a href="#projects"> View Projects</a>
           </button>
-          <button className="border border-white text-white py-2 px-6 rounded hover:bg-white hover:text-blue-700">
-            Download Resume
-          </button>
+          <a
+  href="/resume.pdf"
+  download
+  className="border border-white text-white py-2 px-6 rounded hover:bg-white hover:text-blue-700"
+>
+  Download Resume
+</a>
+
         </div>
       </div>
       <div className="hidden lg:flex">
