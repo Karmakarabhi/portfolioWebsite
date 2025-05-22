@@ -5,7 +5,7 @@ import myLogoNew from "../assets/myLogoNew.png";
 function Navbar() {
   const [openMenu, setOpenMenu] = useState(false);
   return (
-    <div className="bg-slate-950 flex justify-between p-4 md:p-6 sticky top-0">
+    <div className="bg-slate-950 flex justify-between p-4 md:p-6 sticky top-0 z-999">
       <div className="m-[-16px]">
         <div className="flex items-center pl-6 ">
           <img src={myLogoNew} alt="Abhijit Logo" className="h-15" />

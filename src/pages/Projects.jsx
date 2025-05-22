@@ -33,8 +33,8 @@ const projectData = [
 
 function Projects({}) {
   return (
-    <div>
-      <p className="text-3xl md:text-5xl text-blue-400 font-bold my-10 pl-10 md:pl-46">
+    <div className="flex justify-center items-center flex-col ">
+      <p className="text-3xl md:text-5xl text-blue-400 font-bold my-10 ">
         My Projects
       </p>
       <div className="flex justify-center items-center flex-col ">
